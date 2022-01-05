@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 748cd71106c1560408bd9972749060fa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dunkin Sans
+  fontNames:
+  - Dunkin Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 333583aa9f248f84786431ed1107111f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
